@@ -4,14 +4,14 @@ Knows:
 ```
 ```diff
 +HTML, JS, 
-+Java, XML, Batch, PY, 
++Java, XML, Batch, PY, HTML , CSS,
 
 ```
 ```diff
 Learning:
 ```
 ```diff
-+HTML, CSS, SCSS, JS, GO, PHP
++SCSS, JS, GO, PHP
 +Java, XML, Batch, PY, jQuery
 +Swift, SQL, React, C#
 ```
