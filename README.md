@@ -16,7 +16,7 @@ Learning:
 +Swift, SQL, React, C#
 ```
 
-[![OneNKode's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneNkode)](https://github.com/OneNkode)
+[![oOneNKode's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneNkode)](https://github.com/OneNkode)
 
 
 
