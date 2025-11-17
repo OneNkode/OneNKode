@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 🌐 Web-Based Application Development  
 
@@ -26,10 +26,10 @@
 ![JS Advanced](https://img.shields.io/badge/JS_Advanced-%23F7DF1E.svg?logo=javascript&logoColor=black)
 
 </div>
+-->
 
 
-
-<!-- # WEB-based application development, primarily for mobile devices
+# WEB-based application development, primarily for mobile devices
 ```diff
 Knows:
 ```
@@ -46,7 +46,7 @@ Learning:
 +SCSS, JS, PHP
 + SQL, React, C#
 ```
--->
+
 <div align="center">
 
 ### 🚧 Currently My Active Project
