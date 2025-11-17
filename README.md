@@ -1,4 +1,4 @@
-# WEB Based app development mostly for phones 
+# WEB-based application development, primarily for mobile devices
 ```diff
 Knows:
 ```
