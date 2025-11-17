@@ -1,4 +1,4 @@
-# WEB and APP developer 
+# WEB Based app development mostly for phones 
 ```diff
 Knows:
 ```
@@ -11,9 +11,9 @@ Knows:
 Learning:
 ```
 ```diff
-+SCSS, JS, GO, PHP
-+Java, XML, Batch, PY, jQuery
-+Swift, SQL, React, C#
++ HTML, Java
++SCSS, JS, PHP
++ SQL, React, C#
 ```
 
 [![OneNKode's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneNkode)](https://github.com/OneNkode)
@@ -22,4 +22,4 @@ Learning:
 
 
 
-### Profile Visitors ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fndxcode&labelColor=%23333333&countColor=%232ccce4&style=plastic)
+### Profile Visitors ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOneNKode&labelColor=%23333333&countColor=%232ccce4&style=plastic)
