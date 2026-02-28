@@ -10,6 +10,33 @@
  <div align="center">
 
   <br><br>
+ 
+<!-- STATS -->
+
+<div align="center">
+  <a href="https://github.com/OneNKode/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Contribution Graph">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+  
 
   <h3>🚧 Currently My Active Projects</h3>
   <b>soon</b>
