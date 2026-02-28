@@ -23,5 +23,5 @@
 ### 🚧 Currently My Active Projects
 **soon** 
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=OneNkode&style=for-the-badge&color=green" alt="Profile views" />
 
